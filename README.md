@@ -19,7 +19,7 @@
 ![LLMs](https://img.shields.io/badge/LLMs-%23FFD700?style=flat)
 ![Finetunning](https://img.shields.io/badge/Finetunning-%23FF8C00?style=flat)
 # 📊 GitHub Stats:
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inekruz&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akbar-26122005&theme=solarized_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=inekruz&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=inekruz&theme=solarized_dark)
 
