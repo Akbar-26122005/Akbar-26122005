@@ -2,9 +2,9 @@
 
 <!-- CONTRIBUTIONS -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/inekruz/inekruz/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/inekruz/inekruz/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution Animation" src="https://raw.githubusercontent.com/inekruz/inekruz/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akbar-26122005/Akbar-26122005/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akbar-26122005/Akbar-26122005/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution Animation" src="https://raw.githubusercontent.com/Akbar-26122005/Akbar-26122005/output/github-contribution-grid-snake.svg">
 </picture>
 
 ## 🌐 Socials:
